@@ -1,0 +1,1616 @@
+{
+    "group": {
+        "g0Goo4Q0bdb7c136580e6f00f9643301": {
+            "manager": "u0GZXjp079c4977f1615740f147e2770",
+            "admin": [],
+            "silent": [],
+            "mute_time": {},
+            "no_ansewr": [],
+            "mauf": [],
+            "funny": true,
+            "text": false,
+            "talk": true,
+            "very_talk": false,
+            "forwarded": false,
+            "link": false,
+            "id": false,
+            "photo": false,
+            "video": false,
+            "audio": false,
+            "voice": false,
+            "document": false,
+            "archive": false,
+            "executable": false,
+            "font": false,
+            "sticker": false,
+            "poll": false,
+            "contact": false,
+            "location": false,
+            "live_location": false,
+            "unknown": false,
+            "fohsh": false,
+            "tabchi": false,
+            "anti_hang": true,
+            "num_text": 83,
+            "num_photo": 0,
+            "num_video": 2,
+            "num_voice": 0,
+            "num_link": 3,
+            "num_id": 6,
+            "num_contact": 0,
+            "num_location": 0,
+            "num_audio": 0,
+            "num_forwarded": 1,
+            "num_live_location": 0,
+            "num_poll": 0,
+            "num_sticker": 0,
+            "num_font": 0,
+            "num_executable": 0,
+            "num_archive": 0,
+            "num_document": 0,
+            "users": {
+                "u0GZXjp079c4977f1615740f147e2770": {
+                    "num_text": 69,
+                    "num_photo": 0,
+                    "num_video": 2,
+                    "num_voice": 0,
+                    "num_audio": 0,
+                    "num_document": 0,
+                    "num_archive": 0,
+                    "num_executable": 0,
+                    "num_font": 0,
+                    "num_sticker": 0,
+                    "num_poll": 0,
+                    "num_contact": 0,
+                    "num_location": 0,
+                    "num_live_location": 0,
+                    "num_link": 0,
+                    "num_id": 2,
+                    "num_forwarded": 1,
+                    "warn_count": 0
+                },
+                "u0FvHsz08ee4caccf9145aa21a032da1": {
+                    "num_text": 14,
+                    "num_photo": 0,
+                    "num_video": 0,
+                    "num_voice": 0,
+                    "num_audio": 0,
+                    "num_document": 0,
+                    "num_archive": 0,
+                    "num_executable": 0,
+                    "num_font": 0,
+                    "num_sticker": 0,
+                    "num_poll": 0,
+                    "num_contact": 0,
+                    "num_location": 0,
+                    "num_live_location": 0,
+                    "num_link": 3,
+                    "num_id": 4,
+                    "num_forwarded": 0,
+                    "warn_count": 0
+                }
+            },
+            "messages": [
+                {
+                    "message_id": "1507756822252055722",
+                    "text": "قفل متن",
+                    "time": "1770477804",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1507757822359055722",
+                    "text": "چی",
+                    "reply_to_message_id": "1507757822271055722",
+                    "time": "1770477814",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1507764823984055722",
+                    "text": "@CALL_OF_DUTY",
+                    "time": "1770477972",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1507764824105055722",
+                    "text": "اره",
+                    "reply_to_message_id": "1507764824002055722",
+                    "time": "1770477984",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1507764824374055722",
+                    "text": "کیر",
+                    "time": "1770478013",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0FvHsz08ee4caccf9145aa21a032da1"
+                },
+                {
+                    "message_id": "1507765824473055722",
+                    "text": "https://rubika.ir/joing/JEDIBCCJ0CNERYAOIGZRUAWSNDDVHWUC",
+                    "time": "1770478025",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0FvHsz08ee4caccf9145aa21a032da1"
+                },
+                {
+                    "message_id": "1507765824513055722",
+                    "text": "@CALL_OF_DUTY",
+                    "time": "1770478030",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0FvHsz08ee4caccf9145aa21a032da1"
+                },
+                {
+                    "message_id": "1507767824779055722",
+                    "text": "قفل لینک",
+                    "time": "1770478056",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1507768825111055722",
+                    "text": "@CALL_OF_DUTY",
+                    "time": "1770478089",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0FvHsz08ee4caccf9145aa21a032da1"
+                },
+                {
+                    "message_id": "1507769825284055722",
+                    "text": "الو",
+                    "time": "1770478106",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0FvHsz08ee4caccf9145aa21a032da1"
+                },
+                {
+                    "message_id": "1507769825394055722",
+                    "text": "لینک میفرستم پاک کن",
+                    "reply_to_message_id": "1507769825299055722",
+                    "time": "1770478119",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0FvHsz08ee4caccf9145aa21a032da1"
+                },
+                {
+                    "message_id": "1507770825653055722",
+                    "text": "ثبت مالک",
+                    "time": "1770478142",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1507770825755055722",
+                    "text": "قفل لینک",
+                    "time": "1770478151",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1508244043780055722",
+                    "text": "سلام",
+                    "time": "1770494340",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1508244043976055722",
+                    "text": "ربات",
+                    "time": "1770494350",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1508244044082055722",
+                    "text": "اره",
+                    "time": "1770494359",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1508251045910055722",
+                    "text": "دستورات",
+                    "time": "1770494466",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1508251046011055722",
+                    "text": "ربات",
+                    "time": "1770494471",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1508251046168055722",
+                    "text": "خوبی",
+                    "reply_to_message_id": "1508251046045055722",
+                    "time": "1770494482",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1508251046410055722",
+                    "text": "اره",
+                    "reply_to_message_id": "1508251046258055722",
+                    "time": "1770494494",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1508252046719055722",
+                    "text": "چطوری",
+                    "reply_to_message_id": "1508251046258055722",
+                    "time": "1770494516",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1508252046923055722",
+                    "text": "ربات",
+                    "time": "1770494527",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510378095789055722",
+                    "text": "سلام",
+                    "time": "1770649273",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510379096013055722",
+                    "text": "چطوری",
+                    "time": "1770649298",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510457135940055722",
+                    "text": "سلام",
+                    "time": "1770653312",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510457136212055722",
+                    "text": "فونت",
+                    "time": "1770653336",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510457136399055722",
+                    "text": "کانال راهنما",
+                    "time": "1770653354",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510458136615055722",
+                    "text": "ثبت مالک",
+                    "time": "1770653374",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510458136757055722",
+                    "text": "ثبت مالک",
+                    "time": "1770653386",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510458136843055722",
+                    "file": {
+                        "file_id": "XI1dcmIf03737196199442158876367264281432025081711",
+                        "file_name": "video.mp4",
+                        "size": 321283
+                    },
+                    "time": "1770653395",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510459137004055722",
+                    "text": "قبح",
+                    "time": "1770653410",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510459137122055722",
+                    "text": "اره",
+                    "time": "1770653423",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510459137231055722",
+                    "text": "جق",
+                    "reply_to_message_id": "1510459137137055722",
+                    "time": "1770653432",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510459137373055722",
+                    "text": "فیلم",
+                    "time": "1770653448",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510459137474055722",
+                    "text": "گپ",
+                    "time": "1770653458",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510459137556055722",
+                    "text": "جق",
+                    "time": "1770653465",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510462139199055722",
+                    "text": "دستورات ربات مدیریت گروه بات فادر 👇\n\nثبت مالک\nانتقال مالکیت\nثبت مدیر\nحذف مدیر\nلیست مدیر\nپاکسازی لیست مدیر\nسکوت\nحذف سکوت\nپاکسازی سکوت\nلیست سکوت\nسکوت ۱۰ ثانیه\nسکوت ۳۰ ثانیه\nسکوت ۱ دقیقه\nسکوت ۵ دقیقه\nسکوت ۱۰ دقیقه\nسکوت ۳۰ دقیقه\nسکوت ۱ ساعت\nسکوت ۲ ساعت\nسکوت ۱ روز\nقفل متن\nبازکردن متن\nقفل سخنگو\nبازکردن سخنگو\nقفل پرحرفی\nبازکردن پرحرفی\nقفل عکس\nبازکردن عکس\nقفل ویدیو\nبازکردن ویدیو\nقفل موزیک\nبازکردن موزیک\nقفل ویس\nبازکردن ویس\nقفل فایل\nبازکردن فایل\nقفل آرشیو\nبازکردن آرشیو\nقفل اجرایی\nبازکردن اجرایی\nقفل فونت\nبازکردن فونت\nقفل استیکر\nبازکردن استیکر\nقفل نظرسنجی\nبازکردن نظرسنجی\nقفل مخاطب\nبازکردن مخاطب\nقفل لوکیشن\nبازکردن لوکیشن\nقفل لایو\nبازکردن لایو\nقفل فروارد\nبازکردن فروارد\nقفل لینک\nبازکردن لینک\nقفل آیدی\nبازکردن آیدی\nقفل فحش\nبازکردن فحش\nقفل تبچی\nبازکردن تبچی\nقفل هنگی\nبازکردن هنگی\nقفل سرگرمی\nبازکردن سرگرمی\nلیست قفل\nآمار گروه\n🎉 سرگرمی:\n━━━━━━━━━━━━━━\n😂 جوک\n📖 خاطره\n😅 پ ن پ\n✨ بیو\n🤪 الکی مثلا\n🧠 دانستی\n📚 داستان\n🎭 دیالوگ\n🎶 شعر\n🔥 انگیزشی\n🎲 تاس بنداز\n🪙 سکه\n🍀 شانس\n⚡ چالش\n📜 حدیث\n📖 آیه\n💡 ترفند\n❤️ جمله عاشقانه\n💔 جمله دلشکسته\n🌍 قوانین عجیب\n🔮 شخصیتم\n👔 شغل آینده\n🐾 اگه حیوان بودم\n🎬 فیلم من\n😎 وضعیتم\n📥 امروز\n🔗 دانلود پست (لینک)\n📲 دانلود استوری (آیدی)\n⛅ آب و هوا (شهر)\n💱 ارز (اسم ارز به انگلیسی)\n\n\n📜 شعرای معروف:\n━━━━━━━━━━━━━━\n🌹 شعر سعدی\n🍷 شعر حافظ\n🗡️ شعر فردوسی\n🌀 شعر مولوی\n💍 شعر نظامی\n✨ شعر مولانا\n✒️ شعر شهریار",
+                    "time": "1770653616",
+                    "is_edited": false,
+                    "forwarded_from": {
+                        "type_from": "Channel",
+                        "message_id": "1508214458151686925",
+                        "from_chat_id": "c0DILwZ0b590ef80fc80b34b9b0b8390"
+                    },
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510463139559055722",
+                    "text": "بازکردن فونت",
+                    "time": "1770653647",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510464139759055722",
+                    "text": "فونت رزگار",
+                    "reply_to_message_id": "1510463139611055722",
+                    "time": "1770653664",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510465139995055722",
+                    "text": "بازکردن تبچی",
+                    "time": "1770653686",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510467140270055722",
+                    "text": "آمار گروع",
+                    "time": "1770653709",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510467140331055722",
+                    "text": "آمار گروه",
+                    "time": "1770653715",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510467140442055722",
+                    "text": "ثبت مالک",
+                    "time": "1770653725",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510468141069055722",
+                    "text": "ا",
+                    "time": "1770653779",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510468141319055722",
+                    "text": "به پدرت بی احترامی نکن",
+                    "reply_to_message_id": "1510468141094055722",
+                    "time": "1770653800",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510468141513055722",
+                    "text": "خودم مالک گروهم",
+                    "reply_to_message_id": "1510468141358055722",
+                    "time": "1770653816",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510471141638055722",
+                    "file": {
+                        "file_id": "XI1dcmIf03737196199442158876367264281432025081711",
+                        "file_name": "video.mp4",
+                        "size": 321283
+                    },
+                    "reply_to_message_id": "1510470141556055722",
+                    "time": "1770653826",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510471141711055722",
+                    "text": "ریقو",
+                    "time": "1770653832",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510477144834055722",
+                    "text": "سلام",
+                    "time": "1770654084",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0FvHsz08ee4caccf9145aa21a032da1"
+                },
+                {
+                    "message_id": "1510478147177055722",
+                    "text": "ربات",
+                    "time": "1770654283",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510480147269055722",
+                    "text": "سکوت 10 دقیقه",
+                    "time": "1770654291",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510480147396055722",
+                    "text": "سکوت 10 دقیقه",
+                    "reply_to_message_id": "1510477144834055722",
+                    "time": "1770654301",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510480147549055722",
+                    "text": "عااالا",
+                    "time": "1770654312",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0FvHsz08ee4caccf9145aa21a032da1"
+                },
+                {
+                    "message_id": "1510485150193055722",
+                    "text": "عاااااا",
+                    "time": "1770654553",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510485150285055722",
+                    "text": "لیست سکوت",
+                    "time": "1770654561",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510485150376055722",
+                    "text": "آزاد",
+                    "reply_to_message_id": "1510477144834055722",
+                    "time": "1770654568",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510485150578055722",
+                    "text": "حذف سکوت",
+                    "reply_to_message_id": "1510477144834055722",
+                    "time": "1770654588",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510486150786055722",
+                    "text": "قفل لینک",
+                    "time": "1770654609",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510488151717055722",
+                    "text": "https://rubika.ir/joing/IJHCEJEG0LDXBNUQPSYTDCMOEFIIZHJQ",
+                    "time": "1770654694",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0FvHsz08ee4caccf9145aa21a032da1"
+                },
+                {
+                    "message_id": "1510489151965055722",
+                    "text": "ثبت مالک",
+                    "time": "1770654717",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510489152240055722",
+                    "text": "ثبت",
+                    "reply_to_message_id": "1510489152168055722",
+                    "time": "1770654742",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1520230017500055722",
+                    "text": "ربات",
+                    "time": "1771354125",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1520240021374055722",
+                    "text": "چطوری",
+                    "time": "1771354414",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1520241023080055722",
+                    "text": "وضعیت",
+                    "time": "1771354548",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                }
+            ]
+        },
+        "g0GqjC90f33c1a61235faadd5bca78e9": {
+            "manager": "",
+            "admin": [],
+            "silent": [],
+            "mute_time": {},
+            "no_ansewr": [],
+            "mauf": [],
+            "funny": true,
+            "text": false,
+            "talk": true,
+            "very_talk": false,
+            "forwarded": false,
+            "link": false,
+            "id": false,
+            "photo": false,
+            "video": false,
+            "audio": false,
+            "voice": false,
+            "document": false,
+            "archive": false,
+            "executable": false,
+            "font": false,
+            "sticker": false,
+            "poll": false,
+            "contact": false,
+            "location": false,
+            "live_location": false,
+            "unknown": false,
+            "fohsh": false,
+            "tabchi": false,
+            "anti_hang": true,
+            "num_text": 31,
+            "num_photo": 0,
+            "num_video": 0,
+            "num_voice": 0,
+            "num_link": 0,
+            "num_id": 0,
+            "num_contact": 0,
+            "num_location": 0,
+            "num_audio": 0,
+            "num_forwarded": 2,
+            "num_live_location": 0,
+            "num_poll": 0,
+            "num_sticker": 0,
+            "num_font": 0,
+            "num_executable": 0,
+            "num_archive": 0,
+            "num_document": 0,
+            "users": {
+                "u0IUrMO094ca25e91726d6c43b4de380": {
+                    "num_text": 16,
+                    "num_photo": 0,
+                    "num_video": 0,
+                    "num_voice": 0,
+                    "num_audio": 0,
+                    "num_document": 0,
+                    "num_archive": 0,
+                    "num_executable": 0,
+                    "num_font": 0,
+                    "num_sticker": 0,
+                    "num_poll": 0,
+                    "num_contact": 0,
+                    "num_location": 0,
+                    "num_live_location": 0,
+                    "num_link": 0,
+                    "num_id": 0,
+                    "num_forwarded": 0,
+                    "warn_count": 0
+                },
+                "u0IjaxE001755c8e02896d439ebd7b8f": {
+                    "num_text": 13,
+                    "num_photo": 0,
+                    "num_video": 0,
+                    "num_voice": 0,
+                    "num_audio": 0,
+                    "num_document": 0,
+                    "num_archive": 0,
+                    "num_executable": 0,
+                    "num_font": 0,
+                    "num_sticker": 0,
+                    "num_poll": 0,
+                    "num_contact": 0,
+                    "num_location": 0,
+                    "num_live_location": 0,
+                    "num_link": 0,
+                    "num_id": 0,
+                    "num_forwarded": 0,
+                    "warn_count": 0
+                },
+                "u0IlUTi07fecdc1b0417f1252ba73832": {
+                    "num_text": 2,
+                    "num_photo": 0,
+                    "num_video": 0,
+                    "num_voice": 0,
+                    "num_audio": 0,
+                    "num_document": 0,
+                    "num_archive": 0,
+                    "num_executable": 0,
+                    "num_font": 0,
+                    "num_sticker": 0,
+                    "num_poll": 0,
+                    "num_contact": 0,
+                    "num_location": 0,
+                    "num_live_location": 0,
+                    "num_link": 0,
+                    "num_id": 0,
+                    "num_forwarded": 2,
+                    "warn_count": 0
+                }
+            },
+            "messages": [
+                {
+                    "message_id": "1507841165123065852",
+                    "text": "چرا انقدر خلوته گروه",
+                    "reply_to_message_id": "1507841164980065852",
+                    "time": "1770481559",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IUrMO094ca25e91726d6c43b4de380"
+                },
+                {
+                    "message_id": "1507841165213065852",
+                    "text": "۱۹ نفرین خوب😂",
+                    "reply_to_message_id": "1507841165123065852",
+                    "time": "1770481568",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IjaxE001755c8e02896d439ebd7b8f"
+                },
+                {
+                    "message_id": "1507843165566065852",
+                    "text": "رباتا هم مارو پاره کردن😂",
+                    "reply_to_message_id": "1507842165322065852",
+                    "time": "1770481597",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IjaxE001755c8e02896d439ebd7b8f"
+                },
+                {
+                    "message_id": "1507843165746065852",
+                    "text": "اشکال نداره زیاد میشه",
+                    "reply_to_message_id": "1507841165213065852",
+                    "time": "1770481613",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IUrMO094ca25e91726d6c43b4de380"
+                },
+                {
+                    "message_id": "1507843165906065852",
+                    "text": "های ماشالا",
+                    "time": "1770481629",
+                    "is_edited": false,
+                    "forwarded_from": {
+                        "type_from": "Channel",
+                        "message_id": "1503830427138112463",
+                        "from_chat_id": "c0DE92l033f0e1ca41dda7ba2e91be84"
+                    },
+                    "sender_type": "User",
+                    "sender_id": "u0IlUTi07fecdc1b0417f1252ba73832",
+                    "metadata": {
+                        "meta_data_parts": [
+                            {
+                                "from_index": 0,
+                                "length": 10,
+                                "type": "Bold"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "message_id": "1507843165928065852",
+                    "text": "یکم دیگگگگ ممبر جمع کنی خوب میشه",
+                    "time": "1770481631",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IUrMO094ca25e91726d6c43b4de380"
+                },
+                {
+                    "message_id": "1507843165925065852",
+                    "text": "هی سخته😂",
+                    "reply_to_message_id": "1507843165746065852",
+                    "time": "1770481631",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IjaxE001755c8e02896d439ebd7b8f"
+                },
+                {
+                    "message_id": "1507843166107065852",
+                    "text": "خوب باشه",
+                    "reply_to_message_id": "1507843165928065852",
+                    "time": "1770481645",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IjaxE001755c8e02896d439ebd7b8f"
+                },
+                {
+                    "message_id": "1507843166174065852",
+                    "text": "باز گروهت زیاد شد",
+                    "reply_to_message_id": "1507843165925065852",
+                    "time": "1770481649",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IUrMO094ca25e91726d6c43b4de380"
+                },
+                {
+                    "message_id": "1507844166280065852",
+                    "text": "ادمین خواستی کمکت میکنم",
+                    "time": "1770481657",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IUrMO094ca25e91726d6c43b4de380"
+                },
+                {
+                    "message_id": "1507844166354065852",
+                    "text": "😉",
+                    "time": "1770481662",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IUrMO094ca25e91726d6c43b4de380"
+                },
+                {
+                    "message_id": "1507844166378065852",
+                    "text": "بهم کمک می کنی ؟ نمی کنی ایراد نداره",
+                    "reply_to_message_id": "1507843166174065852",
+                    "time": "1770481663",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IjaxE001755c8e02896d439ebd7b8f"
+                },
+                {
+                    "message_id": "1507844166549065852",
+                    "text": "اره",
+                    "reply_to_message_id": "1507844166378065852",
+                    "time": "1770481676",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IUrMO094ca25e91726d6c43b4de380"
+                },
+                {
+                    "message_id": "1507844166758065852",
+                    "text": "لینک بدم پخش می کنی؟",
+                    "reply_to_message_id": "1507844166549065852",
+                    "time": "1770481692",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IjaxE001755c8e02896d439ebd7b8f"
+                },
+                {
+                    "message_id": "1507844166973065852",
+                    "text": "نه بابا حوصله این کار ندارم حقیقتا",
+                    "reply_to_message_id": "1507844166758065852",
+                    "time": "1770481708",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IUrMO094ca25e91726d6c43b4de380"
+                },
+                {
+                    "message_id": "1510486454607065852",
+                    "text": "خش",
+                    "reply_to_message_id": "1510485454447065852",
+                    "time": "1770654610",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IjaxE001755c8e02896d439ebd7b8f"
+                }
+            ]
+        },
+        "g0G4X9Q0d82cd07aaf481ee612c565f0": {
+            "manager": "",
+            "admin": [],
+            "silent": [],
+            "mute_time": {},
+            "no_ansewr": [],
+            "mauf": [],
+            "funny": true,
+            "text": false,
+            "talk": true,
+            "very_talk": false,
+            "forwarded": false,
+            "link": false,
+            "id": false,
+            "photo": false,
+            "video": false,
+            "audio": false,
+            "voice": false,
+            "document": false,
+            "archive": false,
+            "executable": false,
+            "font": false,
+            "sticker": false,
+            "poll": false,
+            "contact": false,
+            "location": false,
+            "live_location": false,
+            "unknown": false,
+            "fohsh": false,
+            "tabchi": false,
+            "anti_hang": true,
+            "num_text": 122,
+            "num_photo": 0,
+            "num_video": 0,
+            "num_voice": 0,
+            "num_link": 0,
+            "num_id": 0,
+            "num_contact": 0,
+            "num_location": 0,
+            "num_audio": 0,
+            "num_forwarded": 0,
+            "num_live_location": 0,
+            "num_poll": 0,
+            "num_sticker": 0,
+            "num_font": 0,
+            "num_executable": 0,
+            "num_archive": 0,
+            "num_document": 0,
+            "users": {
+                "u0IHKfm08d8fdfa3152712a84a174a0e": {
+                    "num_text": 56,
+                    "num_photo": 0,
+                    "num_video": 0,
+                    "num_voice": 0,
+                    "num_audio": 0,
+                    "num_document": 0,
+                    "num_archive": 0,
+                    "num_executable": 0,
+                    "num_font": 0,
+                    "num_sticker": 0,
+                    "num_poll": 0,
+                    "num_contact": 0,
+                    "num_location": 0,
+                    "num_live_location": 0,
+                    "num_link": 0,
+                    "num_id": 0,
+                    "num_forwarded": 0,
+                    "warn_count": 0
+                },
+                "u0IEaYm043dbc118f130694ef799f81d": {
+                    "num_text": 60,
+                    "num_photo": 0,
+                    "num_video": 0,
+                    "num_voice": 0,
+                    "num_audio": 0,
+                    "num_document": 0,
+                    "num_archive": 0,
+                    "num_executable": 0,
+                    "num_font": 0,
+                    "num_sticker": 0,
+                    "num_poll": 0,
+                    "num_contact": 0,
+                    "num_location": 0,
+                    "num_live_location": 0,
+                    "num_link": 0,
+                    "num_id": 0,
+                    "num_forwarded": 0,
+                    "warn_count": 0
+                },
+                "u0DYBxE09e60f76b0572f4368e304b7d": {
+                    "num_text": 6,
+                    "num_photo": 0,
+                    "num_video": 0,
+                    "num_voice": 0,
+                    "num_audio": 0,
+                    "num_document": 0,
+                    "num_archive": 0,
+                    "num_executable": 0,
+                    "num_font": 0,
+                    "num_sticker": 0,
+                    "num_poll": 0,
+                    "num_contact": 0,
+                    "num_location": 0,
+                    "num_live_location": 0,
+                    "num_link": 0,
+                    "num_id": 0,
+                    "num_forwarded": 0,
+                    "warn_count": 0
+                }
+            },
+            "messages": [
+                {
+                    "message_id": "1508239265761314089",
+                    "text": "اره",
+                    "time": "1770494167",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508240265817314089",
+                    "text": "فعال",
+                    "time": "1770494170",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508240266127314089",
+                    "text": "سلام",
+                    "time": "1770494186",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508240266274314089",
+                    "text": "خوبم",
+                    "reply_to_message_id": "1508240266138314089",
+                    "time": "1770494194",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508242266397314089",
+                    "text": "🤣🤣🤣",
+                    "time": "1770494200",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508242266497314089",
+                    "text": "چرا کپی میکنی",
+                    "reply_to_message_id": "1508241266312314089",
+                    "time": "1770494205",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508242266694314089",
+                    "text": "چیمیگی",
+                    "reply_to_message_id": "1508242266561314089",
+                    "time": "1770494215",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508243266883314089",
+                    "text": "کسخلیا",
+                    "reply_to_message_id": "1508243266719314089",
+                    "time": "1770494225",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508243267047314089",
+                    "text": "فال",
+                    "time": "1770494235",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508243267079314089",
+                    "text": "😐😐😐",
+                    "time": "1770494237",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508243267099314089",
+                    "text": "دستورات",
+                    "time": "1770494238",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244267295314089",
+                    "text": "پشمام",
+                    "reply_to_message_id": "1508243266907314089",
+                    "time": "1770494250",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508244267315314089",
+                    "text": "این کانال دستوراتشه",
+                    "reply_to_message_id": "1508243267125314089",
+                    "time": "1770494251",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244267473314089",
+                    "text": "رلم میشی",
+                    "reply_to_message_id": "1508243267155314089",
+                    "time": "1770494259",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508244267693314089",
+                    "text": "کیرم تو خودت ملیسا",
+                    "reply_to_message_id": "1508244267531314089",
+                    "time": "1770494270",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508244267834314089",
+                    "text": "تنظیم لقب بکن ممد",
+                    "reply_to_message_id": "1508244267328314089",
+                    "time": "1770494276",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244268034314089",
+                    "text": "تنظیم لقب بکن ممد",
+                    "time": "1770494287",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244268265314089",
+                    "text": "اصل",
+                    "time": "1770494297",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244268316314089",
+                    "text": "ها",
+                    "reply_to_message_id": "1508244268083314089",
+                    "time": "1770494300",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508244268447314089",
+                    "text": "امار",
+                    "time": "1770494307",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244268488314089",
+                    "text": "تنظیم لقب کونی",
+                    "reply_to_message_id": "1508244268265314089",
+                    "time": "1770494309",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508244268645314089",
+                    "text": "لقب",
+                    "time": "1770494318",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244268757314089",
+                    "text": "کصکش",
+                    "reply_to_message_id": "1508244268663314089",
+                    "time": "1770494324",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244268836314089",
+                    "text": "چگونه",
+                    "time": "1770494327",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244268909314089",
+                    "text": "وایسا",
+                    "time": "1770494330",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508244268923314089",
+                    "text": "امیر",
+                    "time": "1770494331",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508244269009314089",
+                    "text": "چطوری بردارم",
+                    "time": "1770494335",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508244269144314089",
+                    "text": "چیو",
+                    "reply_to_message_id": "1508244269009314089",
+                    "time": "1770494342",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244269291314089",
+                    "text": "این کصخاو ریم‌کن",
+                    "reply_to_message_id": "1508244269010314089",
+                    "time": "1770494348",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244269459314089",
+                    "text": "دستورات",
+                    "reply_to_message_id": "1508244269361314089",
+                    "time": "1770494357",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244269584314089",
+                    "text": "دستورات",
+                    "time": "1770494361",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508244269696314089",
+                    "text": "از این کانال",
+                    "reply_to_message_id": "1508244269478314089",
+                    "time": "1770494368",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508245269761314089",
+                    "text": "تنظیم لقب یممزمزی",
+                    "reply_to_message_id": "1508244269459314089",
+                    "time": "1770494370",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0DYBxE09e60f76b0572f4368e304b7d"
+                },
+                {
+                    "message_id": "1508245269774314089",
+                    "text": "دستوراتش ببین",
+                    "time": "1770494371",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508246269994314089",
+                    "text": "تنظیم لقب جیتستسخثح",
+                    "reply_to_message_id": "1508245269761314089",
+                    "time": "1770494382",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508247270131314089",
+                    "text": "بفرست",
+                    "reply_to_message_id": "1508245269774314089",
+                    "time": "1770494390",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508248270162314089",
+                    "text": "محدودیت",
+                    "time": "1770494391",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508248270503314089",
+                    "text": "لیست",
+                    "reply_to_message_id": "1508248270173314089",
+                    "time": "1770494409",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508248270708314089",
+                    "text": "لیست دستورات",
+                    "reply_to_message_id": "1508248270539314089",
+                    "time": "1770494419",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508248270672314089",
+                    "text": "کصخل جقی کانال داره",
+                    "reply_to_message_id": "1508247270131314089",
+                    "time": "1770494418",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508248270946314089",
+                    "text": "برو تو کاتالش ببین",
+                    "reply_to_message_id": "1508248270727314089",
+                    "time": "1770494433",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508250271357314089",
+                    "text": "لیست قفل",
+                    "time": "1770494455",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508251271485314089",
+                    "text": "ممد",
+                    "reply_to_message_id": "1508250271357314089",
+                    "time": "1770494462",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508251271557314089",
+                    "text": "روم ریپ بزن بنویس",
+                    "time": "1770494466",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508251271577314089",
+                    "text": "قفل کد هنگی",
+                    "reply_to_message_id": "1508250271370314089",
+                    "time": "1770494467",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508251271684314089",
+                    "text": "انتقال مالکیت",
+                    "reply_to_message_id": "1508251271557314089",
+                    "time": "1770494473",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508251271789314089",
+                    "text": "وایسا",
+                    "reply_to_message_id": "1508251271684314089",
+                    "time": "1770494479",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508251271966314089",
+                    "text": "تنظیم لقب کونده خیال باف",
+                    "reply_to_message_id": "1508251271557314089",
+                    "time": "1770494488",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508251272106314089",
+                    "text": "لقب",
+                    "reply_to_message_id": "1508251271684314089",
+                    "time": "1770494497",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508251272104314089",
+                    "text": "سیهدیر",
+                    "reply_to_message_id": "1508251271966314089",
+                    "time": "1770494497",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508252272195314089",
+                    "text": "تنظیم لقب بکن ممد",
+                    "time": "1770494502",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508252272284314089",
+                    "text": "اصل",
+                    "time": "1770494507",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508252272332314089",
+                    "text": "امار",
+                    "time": "1770494509",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508252272373314089",
+                    "text": "چطوری لقب میزاری رو  خودن بدون اجازع؟",
+                    "reply_to_message_id": "1508251272104314089",
+                    "time": "1770494511",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508252272516314089",
+                    "text": "به سختی",
+                    "reply_to_message_id": "1508252272373314089",
+                    "time": "1770494520",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508252272699314089",
+                    "text": "فحشوگذاشتم دستور خاموشش نگی",
+                    "reply_to_message_id": "1508252272516314089",
+                    "time": "1770494530",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IHKfm08d8fdfa3152712a84a174a0e"
+                },
+                {
+                    "message_id": "1508252272781314089",
+                    "text": "اصل",
+                    "time": "1770494535",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0DYBxE09e60f76b0572f4368e304b7d"
+                },
+                {
+                    "message_id": "1508252272945314089",
+                    "text": "کصکش دست من نی",
+                    "reply_to_message_id": "1508252272699314089",
+                    "time": "1770494546",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508252272974314089",
+                    "text": "ریمش کن",
+                    "time": "1770494547",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                },
+                {
+                    "message_id": "1508252273025314089",
+                    "text": "خاموش",
+                    "time": "1770494551",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0DYBxE09e60f76b0572f4368e304b7d"
+                },
+                {
+                    "message_id": "1508252273134314089",
+                    "text": "یا بگو خاموش🥸",
+                    "time": "1770494557",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0IEaYm043dbc118f130694ef799f81d"
+                }
+            ]
+        },
+        "g0Gp59T0530bf3385105632deafa92b6": {
+            "manager": "",
+            "admin": [],
+            "silent": [],
+            "mute_time": {},
+            "no_ansewr": [],
+            "mauf": [],
+            "funny": true,
+            "text": false,
+            "talk": true,
+            "very_talk": false,
+            "forwarded": false,
+            "link": false,
+            "id": false,
+            "photo": false,
+            "video": false,
+            "audio": false,
+            "voice": false,
+            "document": false,
+            "archive": false,
+            "executable": false,
+            "font": false,
+            "sticker": false,
+            "poll": false,
+            "contact": false,
+            "location": false,
+            "live_location": false,
+            "unknown": false,
+            "fohsh": false,
+            "tabchi": false,
+            "anti_hang": true,
+            "num_text": 2,
+            "num_photo": 0,
+            "num_video": 0,
+            "num_voice": 0,
+            "num_link": 0,
+            "num_id": 0,
+            "num_contact": 0,
+            "num_location": 0,
+            "num_audio": 0,
+            "num_forwarded": 0,
+            "num_live_location": 0,
+            "num_poll": 0,
+            "num_sticker": 0,
+            "num_font": 0,
+            "num_executable": 0,
+            "num_archive": 0,
+            "num_document": 0,
+            "users": {
+                "u0GZXjp079c4977f1615740f147e2770": {}
+            },
+            "messages": [
+                {
+                    "message_id": "1510478557007741640",
+                    "text": "ربات",
+                    "time": "1770654251",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                },
+                {
+                    "message_id": "1510478557150741640",
+                    "text": "سلام",
+                    "time": "1770654265",
+                    "is_edited": false,
+                    "sender_type": "User",
+                    "sender_id": "u0GZXjp079c4977f1615740f147e2770"
+                }
+            ]
+        }
+    },
+    "bot": "",
+    "maker": {
+        "b0GZXjp0RRY07b8470e1579ac4e55fc2": {
+            "admin_state": "none"
+        }
+    },
+    "makar2": []
+}
